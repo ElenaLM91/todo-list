@@ -4,8 +4,8 @@ This is the checklist of tasks to make a good readme:
 
 ###Making a good readme
 
-[] Project title 
-[] Description
+[x] Project title 
+[x] Description
 [] Getting Started
 [] Prerequisites
 [] Installing
