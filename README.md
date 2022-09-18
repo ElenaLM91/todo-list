@@ -23,3 +23,7 @@ And repeat
 sodales, tincidunt massa et, interdum nisl. Nullam lobortis fermentum risus sit amet malesuada. Nulla semper ligula ac co
 ## Deployment 
 Add additional notes to deploy this on a live system 
+
+## Built With 
+- [Contributor Covenant](https://google.es) - Used for the Code of Conduct 
+- [Creative Common](https://google.es) -Used to choose
