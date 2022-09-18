@@ -32,3 +32,9 @@ Add additional notes to deploy this on a live system
   - **Programmer B** - *Provided README Template* - [Fran Alonso](https://github.com/FranAlonso91)
 
 See also the list of the [contributors](https://www.google.com/) who participated in this project.
+
+## License 
+
+This product [CC0 1.0 UNIVERSAL](https://www.youtube.com)
+Creative Commons [License.md](https:/www.youtube.com) details
+ 
