@@ -26,4 +26,9 @@ Add additional notes to deploy this on a live system
 
 ## Built With 
 - [Contributor Covenant](https://google.es) - Used for the Code of Conduct 
-- [Creative Common](https://google.es) -Used to choose
+- [Creative Common](https://google.es) - Used to choose
+## Authors
+  - **Programmer A** - *Provided README Template* - [Elena Lopez](https://github.com/ElenaLM91)
+  - **Programmer B** - *Provided README Template* - [Fran Alonso](https://github.com/FranAlonso91)
+
+See also the list of the [contributors](https://www.google.com/) who participated in this project.
